@@ -34,5 +34,6 @@ public class Main {
         char v7 = '\u0000'; //The minimum value char can hold is ‘u0000‘ which is a Unicode value denoting ‘null‘ or 0 in decimal.
         boolean v9 = false;
 
+
     }
 }
