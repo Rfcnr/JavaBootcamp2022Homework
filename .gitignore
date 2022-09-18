@@ -2,3 +2,5 @@
 *.xml
 .gitattributes
 out\*
+.gitignore
+*.class
