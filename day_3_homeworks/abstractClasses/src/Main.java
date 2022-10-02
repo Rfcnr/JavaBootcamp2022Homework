@@ -10,9 +10,9 @@ public class Main {
             * Abstract methods must have an abstract signature, and the method does not have a body.
             For example: public abstract void calculate();
 
-            *Abstract classes do not have to have abstract methods.
+            * Abstract classes do not have to have abstract methods.
 
-            Abstract classes cannot be initialized with the new keyword alone.
+            * Abstract classes cannot be initialized with the new keyword alone.
             For example: GameCalculator gameCalculator = new GameCalculator(); // ERROR!
 
             Used as it is, it works, but is NOT RECOMMENDED.
